@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Vico Timmerman 
+
+* I come from the Netherlands
+* Learning Next.js
+* Augustinuscollege, Groningen
+
+
 <!--
 **vicotimmermanNL/vicotimmermanNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
